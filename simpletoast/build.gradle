@@ -12,6 +12,7 @@ publish {
     uploadName='SimpleToast'
     website = 'https://github.com/Fitz1991/SimpleToastExampleApp.git'
     userOrg = ''
+    repoName = 'simpletoast'
 }
 
 android {
