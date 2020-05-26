@@ -10,7 +10,7 @@ publish {
     desc = 'Simple library to output toast.'
     licences = ['Apache-2.0']
     uploadName='SimpleToast'
-    website = ''
+    website = 'https://github.com/Fitz1991/SimpleToastExampleApp.git'
     userOrg = ''
 }
 
