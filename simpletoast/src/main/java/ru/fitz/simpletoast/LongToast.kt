@@ -1,9 +1,8 @@
 package ru.fitz.simpletoast
 
 import android.widget.Toast
-import ru.fitz.simpletoast.AbstractToast
 
-object LongToast : AbstractToast() {
+object LongToast : IToast() {
     override fun showText(text: String) {
         Toast.makeText(context, text, Toast.LENGTH_LONG).show()
     }

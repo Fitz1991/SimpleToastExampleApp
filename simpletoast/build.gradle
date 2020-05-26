@@ -6,7 +6,7 @@ apply plugin: 'com.novoda.bintray-release'
 publish {
     groupId = 'com.github.fitz1991'
     artifactId = 'simpletoast'
-    publishVersion = '0.1.1'
+    publishVersion = '1.0.0'
     desc = 'Simple library to output toast.'
     licences = ['Apache-2.0']
     uploadName='SimpleToast'
